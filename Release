@@ -1,0 +1,9 @@
+Origin: Taoviet’s Repo
+Label: Taoviet's Repo
+Suite: stable
+Version: 1.0
+Codename: Taoviet
+Architectures: iphoneos-arm
+Components: main
+Description: Taoviet's Repo
+MD5Sum:

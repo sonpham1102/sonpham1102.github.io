@@ -1,0 +1,13 @@
+Package: com.sonpham1102.Fingerboot
+Version: 1.0
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, com.sonpham1102.libpass, firmware (>= 7.0), firmware (<< 9.1)
+Maintainer: Sonpham1102 
+Filename: debs//com.sonpham1102.Fingerboot.deb
+Size: 43834
+MD5sum: 414C6362E86322B9FDC240F7BB0792E8
+SHA1: D3B90185F4C093509B15F0B08DF9369E6EDD7AC5
+SHA256: 8C929A3C8A05934DB4B8B5E2B6EF9FC5554BDF6651CB2DE920EBFEB2F56D7115
+Description: Support Unlock Device With Bio after reboot..No need passcode
+Author: Sonpham1102
+Name: Fingerboot
