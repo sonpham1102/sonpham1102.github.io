@@ -1,0 +1,26 @@
+<package>
+	<id>com.pdhlnpt.localiapstoreios9</id>
+	<name>Full Package</name>
+	<version>1.4-5</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package> mobilesubstrate, preferenceloader</package>
+	</dependencies>
+	<descriptionlist>
+		<description>IN-app purchase for free for IOS 9.</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Animation</description>
+			<image>slashes.jpg</image>
+		</screenshot>			
+	</screenshots>
+	<changelog>
+		<change>Support for IOS9</change>
+	</changelog>
+	
+</package>

@@ -1,9 +1,9 @@
-Origin: Decimation's Repo
-Label: Decimation's Repo
+Origin: Pdhlnpt’s Repo
+Label: HHTV’s Repo
 Suite: stable
 Version: 1.0
-Codename: Decimation
+Codename: Pdhlnpt
 Architectures: iphoneos-arm
 Components: main
-Description: Decimation's Repo
+Description: HHTV’s Repo
 MD5Sum:
