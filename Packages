@@ -1,33 +1,3 @@
-Package: com.pdhlnpt.AppToDebChuan
-Version: 1.2
-Architecture: iphoneos-arm
-Maintainer: Decimation <decimation001@gmail.com>
-Depends: mobilesubstrate
-Filename: debs//tweaks/com.pdhlnpt.AppToDebChuan.deb
-Size: 67770
-MD5sum: 4d6dd549dabf842816b0999289713006
-SHA1: 30c454958682589d582db2fe33273dabce41077b
-SHA256: 1d4fe882b5b24be7361adc5c1619434ed826904f42df38d9d4451a7a7012eeee
-Section: Tweaks
-Description: App ho tro dong file DEB!!!
-Author: Read Stanton & Jonathan (Decimation / jon889) <decimation001@gmail.com>
-Name: AppToDeb
-
-Package: com.pdhlnpt.localiapstoreios9
-Version: 1.4-5
-Architecture: iphoneos-arm
-Maintainer: Hhtv <pdhlnpt@yahoo.com>
-Depends: mobilesubstrate, preferenceloader
-Filename: debs//tweaks/com.pdhlnpt.localiapstoreios9.deb
-Size: 70680
-MD5sum: 20F659361402B76B162D633C918155E6
-SHA1: E0751DB8271730BB59864D6E6D40510633FE25E6
-SHA256: 7F781A465A924B90D0960235DC537497D5C878D98880664CFE9DE5C9B874BBBA
-Section: Tweaks
-Description: In-app Purchase for free - Các bạn có thể cài đặt ứng dụng này để có thể mua in-app miễn phí cho 1 số game và ứng dụng Chúc vui vẻ.
-Author: pdhlnpt@yahoo.com <pdhlnpt@yahoo.com>
-Name: localiapstoreios9
-
 Package: com.sonpham1102.quicklock46.deb
 Version: 0.0.1-20
 Architecture: iphoneos-arm
@@ -39,6 +9,6 @@ MD5sum: 2f7eaef3ade737ac5e3e1326233471c2
 SHA1: 181f93d9c30c7db63f53122a121f8eb02750dfae
 SHA256: 5e9c308f5284d85bc7d9a51dfc625205490a25846e27891757b1c71e78864a64
 Section: Tweaks
-Description: In-app Purchase for free - Các bạn có thể cài đặt ứng dụng này để có thể mua in-app miễn phí cho 1 số game và ứng dụng Chúc vui vẻ.
+Description: sử dụng nút để tắt màn hình 1 cách nhanh chóng.
 Author: deVbug <devbug@devbug.me>
 Name: quicklock46
