@@ -35,7 +35,7 @@ Architecture: iphoneos-arm
 Maintainer: Hhtv <pdhlnpt@yahoo.com>
 Depends: mobilesubstrate, firmware (>= 6.0)
 Filename: debs//tweaks/com.sonpham1102.quicklock46.deb
-Size: 348
+Size: 69892
 MD5sum: 2F7EAEF3ADE737AC5E3E1326233471C2
 Section: Tweaks
 Description: In-app Purchase for free - Các bạn có thể cài đặt ứng dụng này để có thể mua in-app miễn phí cho 1 số game và ứng dụng Chúc vui vẻ.
