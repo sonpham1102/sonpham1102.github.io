@@ -29,7 +29,7 @@ Author: Filippo & Janosch <sharedroutine@icloud.com>
 Conflicts: com.filippobiga.springtomize2
 Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), com.rpetrich.rocketbootstrap
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=springtomize3Dp
-Description: Customize your device like never before.
+Description: Tuỳ biến giao diện máy IPhone 1 cách mạnh mẽ.
 dev: sharedroutine
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=springtomize3Dp
 Icon: file:///Library/PreferenceBundles/ST3Settings.bundle/icons/Main@2x.png
