@@ -10,3 +10,15 @@ Section: Tweaks
 Description: sử dụng nút để tắt màn hình 1 cách nhanh chóng.
 Author: deVbug <devbug@devbug.me>
 Name: quicklock46
+
+Package: com.sonpham1102.AppToDebChuan
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Hhtv <pdhlnpt@yahoo.com>
+Filename: debs//tweaks/com.sonpham1102.AppToDebChuan.deb
+Size: 67772
+MD5sum: 0c0524dd5d8ef23c637d85b1e20cb6b1
+Section: Tweaks
+Description: Ứng dụng hỗ trợ tạo các file deb.
+Author: insanelyi <http://insanelyi.com>
+Name: AppToDebChuan
