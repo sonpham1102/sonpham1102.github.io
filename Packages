@@ -37,8 +37,6 @@ Depends: mobilesubstrate, firmware (>= 6.0)
 Filename: debs//tweaks/com.sonpham1102.quicklock46.deb
 Size: 348
 MD5sum: 2F7EAEF3ADE737AC5E3E1326233471C2
-SHA1: 181F93D9C30C7DB63F53122A121F8EB02750DFAE
-SHA256: 5E9C308F5284D85BC7D9A51DFC625205490A25846E27891757B1C71E78864A64
 Section: Tweaks
 Description: In-app Purchase for free - Các bạn có thể cài đặt ứng dụng này để có thể mua in-app miễn phí cho 1 số game và ứng dụng Chúc vui vẻ.
 Author: deVbug <devbug@devbug.me>
