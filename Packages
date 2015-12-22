@@ -23,15 +23,18 @@ Description: Ứng dụng hỗ trợ tạo các file deb.
 Author: insanelyi <http://insanelyi.com>
 Name: AppToDebChuan
 
-Package: com.sonpham1102.springtomize3
+Package: com.filippobiga.springtomize3
 Version: 1.4.0-4
 Architecture: iphoneos-arm
+Sponsor: thebigboss.org <http://thebigboss.org>
 Maintainer: BigBoss <bigboss@thebigboss.org>
+Tag: cydia::commercial, purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9
+Conflicts: com.filippobiga.springtomize2
 Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), com.rpetrich.rocketbootstrap
-Filename: debs//tweaks/com.sonpham1102.springtomize3.deb
-Size: 872492
-MD5sum: 256cab6bc19665df7e3595d2a340986c
+Filename: debs//tweaks/com.filippobiga.springtomize3.deb
+Size: 872448
+MD5sum: 15ea0635cfc8a3aa83e87d1bb98aec1d
 Section: Tweaks
 Description: Tuỳ biến giao diện của máy bạn 1 cách mạnh mẽ.
 Author: Filippo & Janosch <sharedroutine@icloud.com>
-Name: springtomize3
+Name: Springtomize 3 (iOS 9/8/7)
