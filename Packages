@@ -5,9 +5,9 @@ Maintainer: Decimation <decimation001@gmail.com>
 Depends: mobilesubstrate
 Filename: debs//tweaks/com.pdhlnpt.AppToDebChuan.deb
 Size: 67770
-MD5sum: 4D6DD549DABF842816B0999289713006
-SHA1: 30C454958682589D582DB2FE33273DABCE41077B
-SHA256: 1D4FE882B5B24BE7361ADC5C1619434ED826904F42DF38D9D4451A7A7012EEEE
+MD5sum: 4d6dd549dabf842816b0999289713006
+SHA1: 30c454958682589d582db2fe33273dabce41077b
+SHA256: 1d4fe882b5b24be7361adc5c1619434ed826904f42df38d9d4451a7a7012eeee
 Section: Tweaks
 Description: Android-like reveal animation for the NC.
 Author: Read Stanton & Jonathan (Decimation / jon889) <decimation001@gmail.com>
@@ -21,9 +21,9 @@ Maintainer: Hhtv <pdhlnpt@yahoo.com>
 Depends: mobilesubstrate, preferenceloader
 Filename: debs//tweaks/com.pdhlnpt.localiapstoreios9.deb
 Size: 70680
-MD5sum: 20F659361402B76B162D633C918155E6
-SHA1: E0751DB8271730BB59864D6E6D40510633FE25E6
-SHA256: 7F781A465A924B90D0960235DC537497D5C878D98880664CFE9DE5C9B874BBBA
+MD5sum: 20f659361402b76b162d633c918155e6
+SHA1: e0751db8271730bb59864d6e6d40510633fe25e6
+SHA256: 7f781a465a924b90d0960235dc537497d5c878d98880664cfe9de5c9b874bbba
 Section: Tweaks
 Description: In-app Purchase for free - Các bạn có thể cài đặt ứng dụng này để có thể mua in-app miễn phí cho 1 số game và ứng dụng Chúc vui vẻ.
 Author: pdhlnpt@yahoo.com <pdhlnpt@yahoo.com>
