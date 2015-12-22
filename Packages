@@ -36,6 +36,7 @@ Icon: file:///Library/PreferenceBundles/ST3Settings.bundle/icons/Main@2x.png
 Installed-Size: 2812
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Name: Springtomize 3 (iOS 9/8/7)
+Filename: debs//tweaks/com.sonpham1102.springtomize3.deb
 Size: 872492
 MD5sum: 256cab6bc19665df7e3595d2a340986c
 Section: Tweaks
