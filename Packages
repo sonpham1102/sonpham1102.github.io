@@ -27,6 +27,7 @@ Package: com.sonpham1102.springtomize3
 Version: 1.4.0-4
 Architecture: iphoneos-arm
 Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), com.rpetrich.rocketbootstrap
 Filename: debs//tweaks/com.sonpham1102.springtomize3.deb
 Size: 872492
 MD5sum: 256cab6bc19665df7e3595d2a340986c
