@@ -51,7 +51,7 @@ Conflicts: app.weiphone.clezz.quickdo, com.clezz.quickdo-beta, com.clezz.quickdo
 Depends: mobilesubstrate, firmware (>= 5.0), preferenceloader (>= 2.0), com.a3tweaks.flipswitch
 Description: Activator của Táo Việt version by HHTV
 Name: QuickDo iOS 9
-Filename: debs//tweaks/com.sonpham1102. quickdoios9.deb
+Filename: debs//tweaks/com.sonpham1102.quickdoios9.deb
 Size: 1681656
 MD5sum: b9e8135463849cc3a31226abd2ffa2ae
 Section: Tweaks
