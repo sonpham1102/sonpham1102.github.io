@@ -1,0 +1,45 @@
+Package: com.pdhlnpt.AppToDebChuan
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Decimation <decimation001@gmail.com>
+Depends: mobilesubstrate
+Filename: debs//tweaks/com.pdhlnpt.AppToDebChuan.deb
+Size: 67770
+MD5sum: 4D6DD549DABF842816B0999289713006
+SHA1: 30C454958682589D582DB2FE33273DABCE41077B
+SHA256: 1D4FE882B5B24BE7361ADC5C1619434ED826904F42DF38D9D4451A7A7012EEEE
+Section: Tweaks
+Description: Android-like reveal animation for the NC.
+Author: Read Stanton & Jonathan (Decimation / jon889) <decimation001@gmail.com>
+Depiction: http://decimation.github.io/depictions/index.html?p=com.decimation.revealnc
+Name: AppToDeb
+
+Package: com.pdhlnpt.localiapstoreios9
+Version: 1.4-5
+Architecture: iphoneos-arm
+Maintainer: Hhtv <pdhlnpt@yahoo.com>
+Depends: mobilesubstrate, preferenceloader
+Filename: debs//tweaks/com.pdhlnpt.localiapstoreios9.deb
+Size: 70680
+MD5sum: 20F659361402B76B162D633C918155E6
+SHA1: E0751DB8271730BB59864D6E6D40510633FE25E6
+SHA256: 7F781A465A924B90D0960235DC537497D5C878D98880664CFE9DE5C9B874BBBA
+Section: Tweaks
+Description: In-app Purchase for free - Các bạn có thể cài đặt ứng dụng này để có thể mua in-app miễn phí cho 1 số game và ứng dụng Chúc vui vẻ.
+Author: pdhlnpt@yahoo.com <pdhlnpt@yahoo.com>
+Name: localiapstoreios9
+
+Package: com.sonpham1102.quicklock46.deb
+Version: 0.0.1-20
+Architecture: iphoneos-arm
+Maintainer: Hhtv <pdhlnpt@yahoo.com>
+Depends: mobilesubstrate, firmware (>= 6.0)
+Filename: debs//tweaks/com.sonpham1102.quicklock46.deb
+Size: 348
+MD5sum: 2F7EAEF3ADE737AC5E3E1326233471C2
+SHA1: 181F93D9C30C7DB63F53122A121F8EB02750DFAE
+SHA256: 5E9C308F5284D85BC7D9A51DFC625205490A25846E27891757B1C71E78864A64
+Section: Tweaks
+Description: In-app Purchase for free - Các bạn có thể cài đặt ứng dụng này để có thể mua in-app miễn phí cho 1 số game và ứng dụng Chúc vui vẻ.
+Author: deVbug <devbug@devbug.me>
+Name: quicklock46
