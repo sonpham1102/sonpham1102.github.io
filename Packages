@@ -69,3 +69,22 @@ MD5sum: 868a7ba35492077a7fdfdf29b38c96fa
 Pre-Depends: firmware (>= 8.0)
 Section: Tweaks
 Version: 1.0.5-beta-1
+
+Package: com.sonpham1102.swipeselection
+Architecture: iphoneos-arm
+Author: iKy1e (Kyle Howells) <freerunnering+SwipeSelection@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 4.0)
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=swipeselectionDp
+Description: Phần mềm hỗ trợ vuốt trên bàn phím để select text.
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=swipeselectionDp
+Icon: file:///Library/PreferenceBundles/SwipeSelectionPro.bundle/SwipeSelectionPro@2x.png
+Installed-Size: 132
+Maintainer: Bigboss <bigboss@thebigboss.org>
+Name: SwipeSelection
+Filename: debs//tweaks/com.sonpham1102.swipeselection.deb
+Size: 15198
+MD5sum: b0c4d35618adffedf431f7a2680aaf49
+Section: Tweaks
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9
+Version: 1.5.2-1
