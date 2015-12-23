@@ -1,3 +1,4 @@
+
 Package: com.sonpham1102.quicklock46
 Version: 0.0.1-20
 Architecture: iphoneos-arm
@@ -88,3 +89,21 @@ Section: Tweaks
 Sponsor: thebigboss.org <http://thebigboss.org>
 Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9
 Version: 1.5.2-1
+
+Package: com.sonpham1102.transparentdock
+Architecture: iphoneos-arm
+Author: Jonathan Bailey <jon.bailey889@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 7.0)
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=transparentdockDp
+Description: Xoá mờ trên thanh dock
+dev: jonbailey889
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=transparentdockDp
+Installed-Size: 65
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: TransparentDock
+Filename: debs//tweaks/com.sonpham1102.transparentdock.deb
+Size: 3914
+MD5sum: 4d85297ac9fe3b756a24d0e4105f9426
+Section: Tweaks
+Sponsor: thebigboss.org <http://thebigboss.org>
+Version: 1.1-1
