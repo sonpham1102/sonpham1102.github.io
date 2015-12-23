@@ -57,13 +57,13 @@ MD5sum: b9e8135463849cc3a31226abd2ffa2ae
 Section: Tweaks
 Version: 3.9.2~beta4-1
 
-Package: com.sonpham1102.callfounder
+Package: com.sonpham1102.CallFounder
 Architecture: iphoneos-arm
 Author: Sonpham1102
 Depends: mobilesubstrate, preferenceloader, firmware (>> 8.0), org.thebigboss.libcolorpicker
 Description: all-in-one caller ID solution using TrueCaller cracked
 Name: CallFounder
-Filename: debs//tweaks/com.sonpham1102.callfounder.deb
+Filename: debs//tweaks/com.sonpham1102.CallFounder.deb
 Size: 905740
 MD5sum: 868a7ba35492077a7fdfdf29b38c96fa
 Pre-Depends: firmware (>= 8.0)
