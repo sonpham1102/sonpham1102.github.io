@@ -107,3 +107,20 @@ MD5sum: 4d85297ac9fe3b756a24d0e4105f9426
 Section: Tweaks
 Sponsor: thebigboss.org <http://thebigboss.org>
 Version: 1.1-1
+
+Package: com.sonpham1102.audiorecorder
+Architecture: iphoneos-arm
+Author: Elias Limneos <limneoselias@gmail.com>
+Conflicts: com.sonpham1102.callrecorder
+Depends: mobilesubstrate, zip, preferenceloader, com.rpetrich.rocketbootstrap
+Depiction: http://www.limneos.net/cydia/depiction.php?package=net.limneos.audiorecorder
+Description: Ghi âm cuộc gọi
+Installed-Size: 7720
+Maintainer: Elias Limneos <limneoselias@gmail.com>
+Name: AudioRecorder 2 (iOS 8 & 9)
+Filename: debs//tweaks/com.sonpham1102.audiorecorder.deb
+Size: 3283846
+MD5sum: db52b3e69188610147c534e2cb481c5a
+Section: Tweaks
+Version: 1.1-16
+
