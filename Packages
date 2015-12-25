@@ -124,3 +124,23 @@ MD5sum: db52b3e69188610147c534e2cb481c5a
 Section: Tweaks
 Version: 1.1-16
 
+Package: com.sonpham1102.bioprotect
+Architecture: iphoneos-arm
+Author: Elias Limneos <iphone@limneos.net>
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
+Depiction: TuoiToom
+Description: Khoá các ứng dụng của bạn bằng Touch ID và PassCode
+dev: limneos
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=bioprotectDp
+Icon: file:///Library/PreferenceBundles/BioProtectPrefs.bundle/Icon.png
+Installed-Size: 1112
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: BioProtect IOS 9
+Filename: debs//tweaks/com.sonpham1102.bioprotect.deb
+Size: 430216
+MD5sum: 719934a53d6f25781c1462913ee49b1b
+Section: Tweaks
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: cydia::commercial, purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9
+Version: 1.8-33
+
