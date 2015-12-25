@@ -144,3 +144,18 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 Tag: cydia::commercial, purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9
 Version: 1.8-33
 
+Package: com.sonpham1102.vwallpaper2os9
+Architecture: iphoneos-arm
+Author: skrew
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 9.0)
+Description: Thêm video, nhạc chuông hình và các hiệu ứng lên màn hình spring board. Hỗ trợ nhạc chuông hình nền động cho bản IOS9
+Homepage: http://i.danstaface.net
+Installed-Size: 40432
+Maintainer: skrew
+Name: vWallpaper 2 for iOS 9
+Filename: debs//tweaks/com.sonpham1102.vwallpaper2os9.deb
+Size: 36017134
+MD5sum: ef1dd72de100935db2e200cea77d769a
+Replaces: com.skrew.skrewcommon2, com.skrew.vwallpaper2os8
+Section: Tweaks
+Version: 0.4.0-3
