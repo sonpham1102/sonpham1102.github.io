@@ -173,3 +173,16 @@ Size: 9747440
 MD5sum: c6a1213b20c3d1c58ebcca162817d91c
 Section: System
 Version: 2.2.0-1k
+
+Package: com.sonpham1102.apphide
+Architecture: iphoneos-arm
+Author: Jerry En
+Depends: firmware (>= 7.0), mobilesubstrate, applist
+Depiction:TuoiToom
+Description: Ẩn các ứng dụng trên màn hình chính, tìm kiếm spotlight và trong settings
+Name: AppHide
+Filename: debs//system/com.sonpham1102.apphide.deb
+Size: 29736
+MD5sum: 875ef606a2c32800db7e166db4f5dbd5
+Section: System
+Version: 0.2.2
