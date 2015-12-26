@@ -159,3 +159,17 @@ MD5sum: ef1dd72de100935db2e200cea77d769a
 Replaces: com.skrew.skrewcommon2, com.skrew.vwallpaper2os8
 Section: Tweaks
 Version: 0.4.0-3
+
+Package: com.sonpham1102.ifile
+Architecture: iphoneos-arm
+Author: Carsten Heinelt
+Depends: file-cmds, zip, unzip, p7zip, gzip, bzip2, unrar, diskdev-cmds
+Depiction:TuoiToom
+Description:Một File Manager và Viewer . iFile là một ứng dụng quản lý tập tin chạy dưới người dùng root. Nó cho phép nhanh chóng chuyển hướng thông qua các hệ thống tập tin iPhone . Nó cho phép xem trực tiếp các tập tin định dạng khác nhau , ví dụ: phim ảnh, âm thanh , văn bản , HTML , kiểu Microsoft , PDF , ZIP . Đối với các tập tin PDF nhảy trực tiếp đến các trang là có thể. ZIP và giải nén đóng gói cũng được hỗ trợ . Tập tin có thể được gửi như file đính kèm email . Tập tin văn bản và danh sách tài sản có thể được chỉnh sửa. Các thư mục và tập tin có thể được đánh dấu. Ngoài ra , các tập tin có thể được tải lên và tải xuống từ được xây dựng trong máy chủ web của iFile
+Installed-Size: 20224
+Name: iFile
+Filename: debs//system/com.sonpham1102.ifile.deb
+Size: 9747440
+MD5sum: c6a1213b20c3d1c58ebcca162817d91c
+Section: System
+Version: 2.2.0-1k
