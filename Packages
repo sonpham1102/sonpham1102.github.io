@@ -195,15 +195,10 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=youtubeplu
 Description: Download all YouTube Videos! Continue background playback and much more!!!
 dev: i4iphones
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=youtubeplusplusDp
-Icon: file:///Library/Application%20Support/YouTubePP/APResources.bundle/PlusIcon@2x.png
-Installed-Size: 8412
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Name: YouTube ++
 Filename: debs//tweaks/com.sonpham1102.ytpp.deb
 Size: 2836022
 MD5sum: 2dd848fab4c9b64e0bb763438558f664
 Section: Tweaks
-Sponsor: thebigboss.org <http://thebigboss.org>
-Tag: purpose::extension, role::enduser, compatible::ios7, compatible::ios8, compatible::ios9
 Version: 1.2r-57
-
