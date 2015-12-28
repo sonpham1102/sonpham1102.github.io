@@ -186,4 +186,21 @@ MD5sum: 875ef606a2c32800db7e166db4f5dbd5
 Section: System
 Version: 0.2.2
 
-
+Package: com.sonpham1102.youtube++
+Architecture: iphoneos-arm
+Author: UnlimApps Inc <support@unlimapps.com>
+Conflicts: me.freemanrepo.cercube, com.cydia00.ytpp, com.unlimapps.jodeboxlib
+Depends: mobilesubstrate, firmware (>= 7.0), com.unlimapps.uamediaexporthelper (>= 1.0r-6), com.unlimapps.uasharedtools (>= 1.1r-88)
+Depiction: 
+Description: Phần mềm hỗ trợ tải video trực tiếp từ youtube
+dev: i4iphones
+Homepage: http://beta.unlimapps.com/depiction/com.unlimapps.ytpp/
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: YouTube++
+Filename: debs//tweaks/com.sonpham1102.youtube++.deb
+Size: 2888676
+MD5sum: cfb67e43e50e297122eaaa7f52b7ced2
+Priority: optional
+Section: Tweaks
+Tag: purpose::extension, role::enduser
+Version: 1.2r-80
