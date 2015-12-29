@@ -224,3 +224,23 @@ Section: Utilities
 Sponsor: thebigboss.org <http://thebigboss.org>
 Tag: purpose::uikit, compatible::ios7, compatible::ios8, compatible::ios9
 Version: 2.2.0-27
+
+Package: com.sonpham1102.flash
+Architecture: iphoneos-arm
+Author: David Goldman & Andrew Abosh <help@golddavid.com>
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=flashDp
+Description: Light in a flash
+dev: flashtweak
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=flashDp
+Icon: file:///Library/PreferenceBundles/Flash.bundle/Flash@2x.png
+Installed-Size: 445
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: Flash
+Filename: debs//tweaks/com.sonpham1102.flash.deb
+Size: 192432
+MD5sum: c625cde324e1fd7b7e8da12dd8d8c009
+Section: Tweaks
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension, compatible::ios9
+Version: 1.0.1-2
