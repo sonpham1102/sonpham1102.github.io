@@ -204,3 +204,23 @@ Priority: optional
 Section: Tweaks
 Tag: purpose::extension, role::enduser
 Version: 1.2r-80
+
+Package: com.sonpham1102.filza
+Architecture: iphoneos-arm
+Author: TIGI Software <satashi2009@gmail.com>
+Depends: firmware (>= 7.0), zip, unzip, gzip, unrar, p7zip
+Depiction: 
+Description: File Manager for iOS. Supports iOS 7+
+dev: satashi2009
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=filzafilemanagerDp
+Icon: file:///Applications/Filza.app/Icon.png
+Installed-Size: 15015
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: Filza File Manager
+Filename: debs//utilities/com.sonpham1102.filza.deb
+Size: 9330138
+MD5sum: db0793da8f869bb93e408a510a89745b 
+Section: Utilities
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::uikit, compatible::ios7, compatible::ios8, compatible::ios9
+Version: 2.2.0-27
