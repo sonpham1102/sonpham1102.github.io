@@ -244,3 +244,17 @@ Section: Tweaks
 Sponsor: thebigboss.org <http://thebigboss.org>
 Tag: purpose::extension, compatible::ios9
 Version: 1.0.1-2
+
+Package: com.sonpham1102.gravitytaoviet
+Architecture: iphoneos-arm
+Author: Sonpham1102@gmail.com
+Depiction: Turning the iPhone 6s Into a Digital Scale
+Description: Turning the iPhone 6s Into a Digital Scale!
+Homepage: http://www.facebook.com/CafeTaoViet
+Maintainer: sonhpham1102@gmail.com
+Name: GravityTaoViet
+Filename: debs//entertainment/com.sonpham1102.gravitytaoviet.deb
+Size: 4523098
+MD5sum: fd4932a66beb7829c8ea9029217db70a
+Section: Entertainment
+Version: 1.0
