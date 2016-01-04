@@ -279,3 +279,15 @@ Section: Tweaks
 Tag: purpose::extension, compatible::ios9
 Version: 1.0.3
 
+Package: com.sonpham1102.localiapstore
+Architecture: iphoneos-arm
+Author: anondev
+Depends: firmware (>= 5.1.1), mobilesubstrate, preferenceloader
+Depiction:
+Description: Ứng dụng hỗ trợ IAP free 1 số game. Phiên bản tương thích với ios7, 8 và 9
+Name: LocalIAPStore
+Filename: debs//tweaks/com.sonpham1102.localiapstore.deb
+Size: 71012
+MD5sum: caeffe2d6a305b6c643ab06c4474c9ef
+Section: Tweaks
+Version: 1.4-2
