@@ -291,3 +291,17 @@ Size: 71012
 MD5sum: caeffe2d6a305b6c643ab06c4474c9ef
 Section: Tweaks
 Version: 1.4-2
+
+Package: com.sonpham1102.eucnide
+Architecture: iphoneos-arm
+Author: Quantum Tweaks
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Depiction: 
+Description: A Beautifully Redesigned Control Center
+Icon: file:///Library/PreferenceBundles/Eucnide.bundle/images/Eucnide@2x.png
+Name: Eucnide
+Filename: debs//tweaks/com.sonpham1102.eucnide.deb
+Size: 213210
+MD5sum: bb878a8b8684a9817a2a57ccff583f3a
+Section: Tweaks
+Version: 1.0
