@@ -305,3 +305,23 @@ Size: 213210
 MD5sum: bb878a8b8684a9817a2a57ccff583f3a
 Section: Tweaks
 Version: 1.0
+
+Package: com.sonpham1102.uaupdatetools
+Architecture: iphoneos-arm
+Author: UnlimApps Inc. <support@unlimapps.com>
+Depends: mobilesubstrate, firmware (>= 8.0), com.unlimapps.uasharedtools (>= 1.1r-93)
+Depiction: 
+Description: Phần mềm hỗ trợ tải các version cũ của Ứng dụng.
+dev: i4iphones
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=appadminDp
+Installed-Size: 2512
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: App Admin
+Filename: debs//tweaks/com.sonpham1102.uaupdatetools.deb
+Size: 731428
+MD5sum: ec42d025dc75d348286582eba8f47c06
+Priority: optional
+Section: Tweaks
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension, role::enduser, compatible::ios8, compatible::ios9
+Version: 1.0r-9
