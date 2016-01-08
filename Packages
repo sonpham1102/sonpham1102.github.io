@@ -325,3 +325,25 @@ Section: Tweaks
 Sponsor: thebigboss.org <http://thebigboss.org>
 Tag: purpose::extension, role::enduser, compatible::ios8, compatible::ios9
 Version: 1.0r-9
+
+Package: com.sonpham1102.ccsettings
+Architecture: iphoneos-arm
+Author: plipala <plipala@foxmail.com>
+Conflicts: com.plipala.ccsettings
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccsettings8Dp
+Description: More toggles for iOS 8/9 ControlCenter
+dev: plipala
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccsettings8Dp
+Icon: file:///Library/PreferenceBundles/CCSettingsPreferences.bundle/CCSettingsPreferences@2x.png
+Installed-Size: 3310
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: CCSettings for iOS 8/9
+Filename: debs//tweaks/com.sonpham1102.ccsettings.deb
+Size: 1100104
+MD5sum: d42986bb92d78691ada2473ab2ef26d9
+Section: Tweaks
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension, compatible::ios8, compatible::ios9
+Version: 0.0.7-8
+
