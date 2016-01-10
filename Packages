@@ -347,3 +347,16 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 Tag: purpose::extension, compatible::ios8, compatible::ios9
 Version: 0.0.7-8
 
+Package: com.sonpham1102.flame
+Architecture: iphoneos-arm
+Author: Adit Kamath
+Conflicts: com.aditkamath.cydiatimeout, com.aditkamath.exterminator
+Depends: mobilesubstrate, preferenceloader, firmware (>= 7.0), cydia (>= 1.1.19)
+Depiction: 
+Description: Rút ngắn thời gian refresh của Cydia. Add nhiều source khác nhau trong 1 lần.Tự động respring, reboot va return to Cydia. Hỗ trợ chế độ Pull down để Refresh. Ngắt chế độ tự động Refresh của Cydia. Ngắt quảng cáo ở trang chủ CydiaTuỳ chỉnh tab khi Open Cydia.
+Name: Flame
+Filename: debs//tweaks/com.sonpham1102.flame.deb
+Size: 87604
+MD5sum: e077e985e35e955a91888452879943ef
+Section: Tweaks
+Version: 0.7.2-1
