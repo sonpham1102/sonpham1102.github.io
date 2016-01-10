@@ -301,10 +301,10 @@ Description: A Beautifully Redesigned Control Center
 Icon: file:///Library/PreferenceBundles/Eucnide.bundle/images/Eucnide@2x.png
 Name: Eucnide
 Filename: debs//tweaks/com.sonpham1102.eucnide.deb
-Size: 213210
-MD5sum: bb878a8b8684a9817a2a57ccff583f3a
+Size: 213920
+MD5sum: 165d77d81dcdbec0703529c7ad90a044
 Section: Tweaks
-Version: 1.0
+Version: 1.0.1.2
 
 Package: com.sonpham1102.uaupdatetools
 Architecture: iphoneos-arm
