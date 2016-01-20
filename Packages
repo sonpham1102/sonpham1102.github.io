@@ -371,7 +371,7 @@ dev: i4iphones
 Homepage:
 Maintainer:
 Name: uasharedtools
-Filename: debs//development/com.sonpham1102.flame.deb
+Filename: debs//development/com.sonpham1102.uasharedtools.deb
 Size: 11961004
 MD5sum: 2983002ce67cc047d973af3cbc82019d
 Section: Development
