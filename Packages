@@ -363,17 +363,18 @@ Version: 0.7.2-1
 
 Package: com.sonpham1102.uasharedtools
 Architecture: iphoneos-arm
-Author: UnlimApps Inc. <support@unlimapps.com>
+Author:
 Depends: mobilesubstrate, firmware (>= 7.0)
-Depiction: 
+Depiction:
 Description: shared tools for unlimapps tweaks
 dev: i4iphones
-Homepage:
-Maintainer:
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=uasharedtoolsDp
+Maintainer: BigBoss <bigboss@thebigboss.org>
 Name: uasharedtools
 Filename: debs//development/com.sonpham1102.uasharedtools.deb
-Size: 11961004
-MD5sum: 2983002ce67cc047d973af3cbc82019d
+Size: 759
+MD5sum: 67c3198e86f069f026d977fbe03004e8
 Section: Development
 Tag: purpose::library, cydia::obsolete, role::developer
 Version: 1.1r-98
+
