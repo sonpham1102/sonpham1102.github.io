@@ -376,3 +376,18 @@ MD5sum: 0510bc8cb34b69c39b1f9e10a70dc1fd
 Section: Tweaks
 Tag: purpose::library, cydia::obsolete, role::developer
 Version: 1.1r-99
+
+Package: com.sonpham1102.fbmpp
+Architecture: iphoneos-arm
+Author: UnlimApps Inc.
+Depends: firmware (>= 5.0), mobilesubstrate, com.sonpham1102.uasharedtools
+Depiction: https://beta.unlimapps.com/depiction/com.unlimapps.fbmpp
+Description: The all in one tweak for Facebook Messenger!
+Homepage: https://beta.unlimapps.com/depiction/com.unlimapps.fbmpp
+Name: Messenger ++
+Filename: debs//tweaks/com.sonpham1102.fbmpp.deb
+Size: 481514
+MD5sum: 87f683fdce87c7aa81585d804facbac0
+Priority: optional
+Section: Tweaks
+Version: 1.0r-63
