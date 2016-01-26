@@ -391,3 +391,23 @@ MD5sum: 87f683fdce87c7aa81585d804facbac0
 Priority: optional
 Section: Tweaks
 Version: 1.0r-63
+
+Package: com.sonpham1102.swipetodeletecontact
+Architecture: iphoneos-arm
+Author: Rene Kahle <packetfahrer@web.de>
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Depiction: 
+Description: Simple Swipe to deleta an Contact
+dev: packetfahrer
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=swipetodeletecontactDp
+Icon: file:///Library/PreferenceBundles/SwipeToDeleteContact.bundle/SwipeToDeleteContactsPref@2x.png
+Installed-Size: 751
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: SwipeToDeleteContact
+Filename: debs//tweaks/com.sonpham1102.swipetodeletecontact.deb
+Size: 66978
+MD5sum: 93db3a7b02c809e7b6ba9d0f9403ebf0
+Section: Tweaks
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension, compatible::ios8, compatible::ios9
+Version: 1.0.2
