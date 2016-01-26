@@ -411,3 +411,18 @@ Section: Tweaks
 Sponsor: thebigboss.org <http://thebigboss.org>
 Tag: purpose::extension, compatible::ios8, compatible::ios9
 Version: 1.0.2
+
+Package: com.sonpham1102.griddy
+Architecture: iphoneos-arm
+Author: TweakWiz
+Conflicts: com.quantumtweaks.eucnide, com.repo.xarold.com.eucnide, me.chewitt.seng, com.repo.xarold.com.seng, com.sull.seng, com.repo.xarold.com.seng, com.a3tweaks.auxo3ios9, com.repo.xarold.com.auxo3ios9, com.sull.auxo3ios9, com.repo.xarold.com.auxo3ios9, org.thebigboss.alympus, com.repo.xarold.com.alympus, com.sull.alympus, com.repo.xarold.com.alympus
+Depends: mobilesubstrate, preferenceloader, firmware (>= 8.0), com.tweakwiz.wizlib (>= 1.3-6)
+Depiction:
+Description: Thay đổi giao diện khi mở các ứng dụng chạy ngầm.
+Icon: file:///Library/PreferenceBundles/GriddyPrefs.bundle/GriddyImages/Griddy@2x.png
+Name: Griddy
+Filename: debs//tweaks/com.sonpham1102.griddy.deb
+Size: 212970
+MD5sum: 6e23fbc3a73c19bb5e0712ec6bdab230
+Section: Tweaks
+Version: 1.0.5
