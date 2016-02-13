@@ -426,3 +426,23 @@ Size: 212970
 MD5sum: 6e23fbc3a73c19bb5e0712ec6bdab230
 Section: Tweaks
 Version: 1.0.5
+
+Package: com.sonpham1102.smalllsclock
+Architecture: iphoneos-arm
+Author: minahoku <minahoku@gmail.com>
+Depends: firmware (>= 7.0), mobilesubstrate
+Depiction:
+Description: Hiện đồng hồ trên thanh Startusbar ở Locks Creen.
+dev: minahoku
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=smalllsclockDp
+Installed-Size: 64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: SmallLSClock
+Filename: debs//tweaks/com.sonpham1102.smalllsclock.deb
+Size: 3502
+MD5sum: c90b00a7594a3b0071a604fef1ffc437
+Priority: optional
+Section: Tweaks
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9
+Version: 0.0.1-1
