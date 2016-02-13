@@ -446,3 +446,17 @@ Section: Tweaks
 Sponsor: thebigboss.org <http://thebigboss.org>
 Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9
 Version: 0.0.1-1
+
+Package: com.sonpham1102.anis
+Architecture: iphoneos-arm
+Author: CP Digital Darkroom
+Depends: mobilesubstrate, applist, com.a3tweaks.flipswitch, preferenceloader, libactivator, firmware (>= 8.0)
+Depiction:
+Description: centralized hotbar for apps & shortcuts
+Icon: file:///Library/PreferenceBundles/Anis.bundle/images/Anis@2x.png
+Name: Anisette
+Filename: debs//tweaks/com.sonpham1102.anis.deb
+Size: 207458
+MD5sum: 448c0a27b00279a22c04aff3fd0117ea
+Section: Tweaks
+Version: 1.0.3
