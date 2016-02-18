@@ -460,3 +460,23 @@ Size: 207458
 MD5sum: 448c0a27b00279a22c04aff3fd0117ea
 Section: Tweaks
 Version: 1.0.3
+
+Package: com.sonpham1102.sptouchios9
+Architecture: iphoneos-arm
+Author: Paolo Smedile <paolosmedile@me.com>
+Conflicts: com.paolosmedile.sptouch
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 9.0), preferenceloader (>= 2.2.2)
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=sptouchios9Dp
+Description: Thêm nút home ảo cho iphone của bạn.
+dev: paolosmedile
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=sptouchios9Dp
+Icon: file:///Library/PreferenceLoader/Preferences/SPTouchIcon@2x.png
+Installed-Size: 192
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: SPTouch for iOS 9
+Filename: debs//tweaks/com.sonpham1102.sptouchios9.deb
+Size: 50604
+MD5sum: 4b4daf4e08be41267600eb9084cee0df
+Section: Tweaks
+Tag: purpose::extension, compatible::ios9
+Version: 3.0
