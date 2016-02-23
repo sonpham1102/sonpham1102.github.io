@@ -480,3 +480,24 @@ MD5sum: 4b4daf4e08be41267600eb9084cee0df
 Section: Tweaks
 Tag: purpose::extension, compatible::ios9
 Version: 3.0
+
+Package: com.sonpham1102.springinvaders
+Architecture: iphoneos-arm
+Author: TweakWiz <support@tweakwiz.com>
+Conflicts: me.alfhaily.gravitation
+Depends: mobilesubstrate, preferenceloader, firmware (>= 8.0), firmware (<< 10.0), com.tweakwiz.wizlib (>= 1.4.4), libactivator
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=springinvadersDp
+Description: Classic arcade game using your home screen
+dev: tweakwiz
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=springinvadersDp
+Icon: file:///Library/PreferenceBundles/SpringInvadersPrefs.bundle/SPRIImages/SpringInvaders@2x.png
+Installed-Size: 384
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: SpringInvaders
+Filename: debs//tweaks/com.sonpham1102.springinvaders.deb
+Size: 146692
+MD5sum: 92f5ea1c2b2f8dc44c37ac1bf1de15fd
+Section: Tweaks
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: cydia::commercial, purpose::extension, compatible::ios8, compatible::ios9
+Version: 1.0-1
