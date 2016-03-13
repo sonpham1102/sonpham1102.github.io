@@ -510,9 +510,8 @@ Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 
 Description: Springtomize 3 is the ultimate utility for your iDevice! It's the only customization tweak you'll ever need. It features plenty of options to customize even the smallest aspect of your device(s). Every single option includes a brief explanation of its effect, making it very easy to use. The whole application has been localized in 20 different languages, so everyone will be able to use it without an issue. Fix by Sonpham1102 - Cafe TaoViet - 91 Ly Thuong Kiet - HN
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=springtomize3Dp
 Name: Springtomize 3(For IOS 7.0-9.1)
-Name: SpringInvaders
 Filename: debs//tweaks/com.sonpham1102.springtomize3Fix.deb
-Size: 419638
-MD5sum: a7cc3b913bfb45caba9275a60b184567
+Size: 419634
+MD5sum: 4186f43df2b2719d30c5c89bf3f21bc2
 Section: Tweaks
 Version: 3.x
