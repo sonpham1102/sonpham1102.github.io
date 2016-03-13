@@ -1,0 +1,518 @@
+Package: com.sonpham1102.quicklock46
+Version: 0.0.1-20
+Architecture: iphoneos-arm
+Maintainer: Hhtv <pdhlnpt@yahoo.com>
+Depends: mobilesubstrate, firmware (>= 6.0)
+Filename: debs//tweaks/com.sonpham1102.quicklock46.deb
+Size: 69892
+MD5sum: 2f7eaef3ade737ac5e3e1326233471c2
+Section: Tweaks
+Description: sử dụng nút để tắt màn hình 1 cách nhanh chóng.
+Author: deVbug <devbug@devbug.me>
+Name: quicklock46
+
+Package: com.sonpham1102.AppToDebChuan
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Hhtv <pdhlnpt@yahoo.com>
+Filename: debs//tweaks/com.sonpham1102.AppToDebChuan.deb
+Size: 67772
+MD5sum: 0c0524dd5d8ef23c637d85b1e20cb6b1
+Section: Tweaks
+Description: Ứng dụng hỗ trợ tạo các file deb.
+Author: insanelyi <http://insanelyi.com>
+Name: AppToDebChuan
+
+Package: com.sonpham1102.springtomize3
+Architecture: iphoneos-arm
+Author: Filippo & Janosch <sharedroutine@icloud.com>
+Conflicts: com.filippobiga.springtomize2
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), com.rpetrich.rocketbootstrap
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=springtomize3Dp
+Description: Tuỳ biến giao diện máy IPhone 1 cách mạnh mẽ.
+dev: sharedroutine
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=springtomize3Dp
+Icon: file:///Library/PreferenceBundles/ST3Settings.bundle/icons/Main@2x.png
+Installed-Size: 2812
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: Springtomize 3 (iOS 9/8/7)
+Filename: debs//tweaks/com.sonpham1102.springtomize3.deb
+Size: 872492
+MD5sum: 256cab6bc19665df7e3595d2a340986c
+Section: Tweaks
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: cydia::commercial, purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9
+Version: 1.4.0-4
+
+Package: com.sonpham1102.quickdoios9
+Architecture: iphoneos-arm
+Author: Ma Jun
+Conflicts: app.weiphone.clezz.quickdo, com.clezz.quickdo-beta, com.clezz.quickdoipad, com.clezz.qda, com.clezz.qdb
+Depends: mobilesubstrate, firmware (>= 5.0), preferenceloader (>= 2.0), com.a3tweaks.flipswitch
+Description: Activator của Táo Việt version by HHTV
+Name: QuickDo iOS 9
+Filename: debs//tweaks/com.sonpham1102.quickdoios9.deb
+Size: 1681656
+MD5sum: b9e8135463849cc3a31226abd2ffa2ae
+Section: Tweaks
+Version: 3.9.2~beta4-1
+
+Package: com.sonpham1102.CallFounder
+Architecture: iphoneos-arm
+Author: Sonpham1102
+Depends: mobilesubstrate, preferenceloader, firmware (>> 8.0), org.thebigboss.libcolorpicker
+Description: all-in-one caller ID solution using TrueCaller cracked
+Name: CallFounder
+Filename: debs//tweaks/com.sonpham1102.CallFounder.deb
+Size: 905740
+MD5sum: 868a7ba35492077a7fdfdf29b38c96fa
+Pre-Depends: firmware (>= 8.0)
+Section: Tweaks
+Version: 1.0.5-beta-1
+
+Package: com.sonpham1102.swipeselection
+Architecture: iphoneos-arm
+Author: iKy1e (Kyle Howells) <freerunnering+SwipeSelection@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 4.0)
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=swipeselectionDp
+Description: Phần mềm hỗ trợ vuốt trên bàn phím để select text.
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=swipeselectionDp
+Icon: file:///Library/PreferenceBundles/SwipeSelectionPro.bundle/SwipeSelectionPro@2x.png
+Installed-Size: 132
+Maintainer: Bigboss <bigboss@thebigboss.org>
+Name: SwipeSelection
+Filename: debs//tweaks/com.sonpham1102.swipeselection.deb
+Size: 15198
+MD5sum: b0c4d35618adffedf431f7a2680aaf49
+Section: Tweaks
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9
+Version: 1.5.2-1
+
+Package: com.sonpham1102.transparentdock
+Architecture: iphoneos-arm
+Author: Jonathan Bailey <jon.bailey889@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 7.0)
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=transparentdockDp
+Description: Xoá mờ trên thanh dock
+dev: jonbailey889
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=transparentdockDp
+Installed-Size: 65
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: TransparentDock
+Filename: debs//tweaks/com.sonpham1102.transparentdock.deb
+Size: 3914
+MD5sum: 4d85297ac9fe3b756a24d0e4105f9426
+Section: Tweaks
+Sponsor: thebigboss.org <http://thebigboss.org>
+Version: 1.1-1
+
+Package: com.sonpham1102.audiorecorder
+Architecture: iphoneos-arm
+Author: Elias Limneos <limneoselias@gmail.com>
+Conflicts: com.sonpham1102.callrecorder
+Depends: mobilesubstrate, zip, preferenceloader, com.rpetrich.rocketbootstrap
+Depiction: http://www.limneos.net/cydia/depiction.php?package=net.limneos.audiorecorder
+Description: Ghi âm cuộc gọi
+Installed-Size: 7720
+Maintainer: Elias Limneos <limneoselias@gmail.com>
+Name: AudioRecorder 2 (iOS 8 & 9)
+Filename: debs//tweaks/com.sonpham1102.audiorecorder.deb
+Size: 3283846
+MD5sum: db52b3e69188610147c534e2cb481c5a
+Section: Tweaks
+Version: 1.1-16
+
+Package: com.sonpham1102.bioprotect
+Architecture: iphoneos-arm
+Author: Elias Limneos <iphone@limneos.net>
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
+Depiction: TuoiToom
+Description: Khoá các ứng dụng của bạn bằng Touch ID và PassCode
+dev: limneos
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=bioprotectDp
+Icon: file:///Library/PreferenceBundles/BioProtectPrefs.bundle/Icon.png
+Installed-Size: 1112
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: BioProtect IOS 9
+Filename: debs//tweaks/com.sonpham1102.bioprotect.deb
+Size: 430216
+MD5sum: 719934a53d6f25781c1462913ee49b1b
+Section: Tweaks
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: cydia::commercial, purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9
+Version: 1.8-33
+
+Package: com.sonpham1102.vwallpaper2os9
+Architecture: iphoneos-arm
+Author: skrew
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 9.0)
+Description: Thêm video, nhạc chuông hình và các hiệu ứng lên màn hình spring board. Hỗ trợ nhạc chuông hình nền động cho bản IOS9
+Homepage: http://i.danstaface.net
+Installed-Size: 40432
+Maintainer: skrew
+Name: vWallpaper 2 for iOS 9
+Filename: debs//tweaks/com.sonpham1102.vwallpaper2os9.deb
+Size: 36017134
+MD5sum: ef1dd72de100935db2e200cea77d769a
+Replaces: com.skrew.skrewcommon2, com.skrew.vwallpaper2os8
+Section: Tweaks
+Version: 0.4.0-3
+
+Package: com.sonpham1102.ifile
+Architecture: iphoneos-arm
+Author: Carsten Heinelt
+Depends: file-cmds, zip, unzip, p7zip, gzip, bzip2, unrar, diskdev-cmds
+Depiction:TuoiToom
+Description:Một File Manager và Viewer . iFile là một ứng dụng quản lý tập tin chạy dưới người dùng root. Nó cho phép nhanh chóng chuyển hướng thông qua các hệ thống tập tin iPhone . Nó cho phép xem trực tiếp các tập tin định dạng khác nhau , ví dụ: phim ảnh, âm thanh , văn bản , HTML , kiểu Microsoft , PDF , ZIP . Đối với các tập tin PDF nhảy trực tiếp đến các trang là có thể. ZIP và giải nén đóng gói cũng được hỗ trợ . Tập tin có thể được gửi như file đính kèm email . Tập tin văn bản và danh sách tài sản có thể được chỉnh sửa. Các thư mục và tập tin có thể được đánh dấu. Ngoài ra , các tập tin có thể được tải lên và tải xuống từ được xây dựng trong máy chủ web của iFile
+Installed-Size: 20224
+Name: iFile
+Filename: debs//system/com.sonpham1102.ifile.deb
+Size: 9747440
+MD5sum: c6a1213b20c3d1c58ebcca162817d91c
+Section: System
+Version: 2.2.0-1k
+
+Package: com.sonpham1102.apphide
+Architecture: iphoneos-arm
+Author: Jerry En
+Depends: firmware (>= 7.0), mobilesubstrate, applist
+Depiction:TuoiToom
+Description: Ẩn các ứng dụng trên màn hình chính, tìm kiếm spotlight và trong settings
+Name: AppHide
+Filename: debs//system/com.sonpham1102.apphide.deb
+Size: 29736
+MD5sum: 875ef606a2c32800db7e166db4f5dbd5
+Section: System
+Version: 0.2.2
+
+Package: com.sonpham1102.youtube++
+Architecture: iphoneos-arm
+Author: UnlimApps Inc <support@unlimapps.com>
+Conflicts: me.freemanrepo.cercube, com.cydia00.ytpp, com.unlimapps.jodeboxlib
+Depends: mobilesubstrate, firmware (>= 7.0), com.unlimapps.uamediaexporthelper (>= 1.0r-6), com.unlimapps.uasharedtools (>= 1.1r-88)
+Depiction: 
+Description: Phần mềm hỗ trợ tải video trực tiếp từ youtube
+dev: i4iphones
+Homepage: http://beta.unlimapps.com/depiction/com.unlimapps.ytpp/
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: YouTube++
+Filename: debs//tweaks/com.sonpham1102.youtube++.deb
+Size: 2888676
+MD5sum: cfb67e43e50e297122eaaa7f52b7ced2
+Priority: optional
+Section: Tweaks
+Tag: purpose::extension, role::enduser
+Version: 1.2r-80
+
+Package: com.sonpham1102.filza
+Architecture: iphoneos-arm
+Author: TIGI Software <satashi2009@gmail.com>
+Depends: firmware (>= 7.0), zip, unzip, gzip, unrar, p7zip
+Depiction: 
+Description: File Manager for iOS. Supports iOS 7+
+dev: satashi2009
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=filzafilemanagerDp
+Icon: file:///Applications/Filza.app/Icon.png
+Installed-Size: 15015
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: Filza File Manager
+Filename: debs//utilities/com.sonpham1102.filza.deb
+Size: 9330138
+MD5sum: db0793da8f869bb93e408a510a89745b 
+Section: Utilities
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::uikit, compatible::ios7, compatible::ios8, compatible::ios9
+Version: 2.2.0-27
+
+Package: com.sonpham1102.flash
+Architecture: iphoneos-arm
+Author: David Goldman & Andrew Abosh <help@golddavid.com>
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=flashDp
+Description: Light in a flash
+dev: flashtweak
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=flashDp
+Icon: file:///Library/PreferenceBundles/Flash.bundle/Flash@2x.png
+Installed-Size: 445
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: Flash
+Filename: debs//tweaks/com.sonpham1102.flash.deb
+Size: 192432
+MD5sum: c625cde324e1fd7b7e8da12dd8d8c009
+Section: Tweaks
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension, compatible::ios9
+Version: 1.0.1-2
+
+Package: com.sonpham1102.gravitytaoviet
+Architecture: iphoneos-arm
+Author: Sonpham1102@gmail.com
+Depiction: Turning the iPhone 6s Into a Digital Scale
+Description: Turning the iPhone 6s Into a Digital Scale!
+Homepage: http://www.facebook.com/CafeTaoViet
+Maintainer: sonhpham1102@gmail.com
+Name: GravityTaoViet
+Filename: debs//entertainment/com.sonpham1102.GravityTaoViet.deb
+Size: 4523098
+MD5sum: fd4932a66beb7829c8ea9029217db70a
+Section: Entertainment
+Version: 1.0
+
+Package: com.sonpham1102.forcy
+Architecture: iphoneos-arm
+Author: Straya Dev Team <ninjaprawn@ninjaprawn.com>
+Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader
+Depiction: 
+Description: 3D touch for ip5s, ip6 & ip6+
+dev: strayadevteam
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=forcyDp
+Icon: file:///Library/PreferenceBundles/ForcyPrefs.bundle/ForcyPrefs@2x.png
+Installed-Size: 1113
+Maintainer: thebigboss.org <http://thebigboss.org>
+Name: Forcy
+Filename: debs//tweaks/com.sonpham1102.forcy.deb
+Size: 976746
+MD5sum: c8905f86535247e0ca00e6e4a0c1ee3b
+Section: Tweaks
+Tag: purpose::extension, compatible::ios9
+Version: 1.0.3
+
+Package: com.sonpham1102.localiapstore
+Architecture: iphoneos-arm
+Author: anondev
+Depends: firmware (>= 5.1.1), mobilesubstrate, preferenceloader
+Depiction:
+Description: Ứng dụng hỗ trợ IAP free 1 số game. Phiên bản tương thích với ios7, 8 và 9
+Name: LocalIAPStore
+Filename: debs//tweaks/com.sonpham1102.localiapstore.deb
+Size: 71012
+MD5sum: caeffe2d6a305b6c643ab06c4474c9ef
+Section: Tweaks
+Version: 1.4-2
+
+Package: com.sonpham1102.eucnide
+Architecture: iphoneos-arm
+Author: Quantum Tweaks
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Depiction: 
+Description: A Beautifully Redesigned Control Center
+Icon: file:///Library/PreferenceBundles/Eucnide.bundle/images/Eucnide@2x.png
+Name: Eucnide
+Filename: debs//tweaks/com.sonpham1102.eucnide.deb
+Size: 213920
+MD5sum: 165d77d81dcdbec0703529c7ad90a044
+Section: Tweaks
+Version: 1.0.1.2
+
+Package: com.sonpham1102.uaupdatetools
+Architecture: iphoneos-arm
+Author: UnlimApps Inc. <support@unlimapps.com>
+Depends: mobilesubstrate, firmware (>= 8.0), com.unlimapps.uasharedtools (>= 1.1r-93)
+Depiction: 
+Description: Phần mềm hỗ trợ tải các version cũ của Ứng dụng.
+dev: i4iphones
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=appadminDp
+Installed-Size: 2512
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: App Admin
+Filename: debs//tweaks/com.sonpham1102.uaupdatetools.deb
+Size: 731428
+MD5sum: ec42d025dc75d348286582eba8f47c06
+Priority: optional
+Section: Tweaks
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension, role::enduser, compatible::ios8, compatible::ios9
+Version: 1.0r-9
+
+Package: com.sonpham1102.ccsettings
+Architecture: iphoneos-arm
+Author: plipala <plipala@foxmail.com>
+Conflicts: com.plipala.ccsettings
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccsettings8Dp
+Description: More toggles for iOS 8/9 ControlCenter
+dev: plipala
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccsettings8Dp
+Icon: file:///Library/PreferenceBundles/CCSettingsPreferences.bundle/CCSettingsPreferences@2x.png
+Installed-Size: 3310
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: CCSettings for iOS 8/9
+Filename: debs//tweaks/com.sonpham1102.ccsettings.deb
+Size: 1100104
+MD5sum: d42986bb92d78691ada2473ab2ef26d9
+Section: Tweaks
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension, compatible::ios8, compatible::ios9
+Version: 0.0.7-8
+
+Package: com.sonpham1102.flame
+Architecture: iphoneos-arm
+Author: Adit Kamath
+Conflicts: com.aditkamath.cydiatimeout, com.aditkamath.exterminator
+Depends: mobilesubstrate, preferenceloader, firmware (>= 7.0), cydia (>= 1.1.19)
+Depiction: 
+Description: Rút ngắn thời gian refresh của Cydia. Add nhiều source khác nhau trong 1 lần.Tự động respring, reboot va return to Cydia. Hỗ trợ chế độ Pull down để Refresh. Ngắt chế độ tự động Refresh của Cydia. Ngắt quảng cáo ở trang chủ CydiaTuỳ chỉnh tab khi Open Cydia.
+Name: Flame
+Filename: debs//tweaks/com.sonpham1102.flame.deb
+Size: 87604
+MD5sum: e077e985e35e955a91888452879943ef
+Section: Tweaks
+Version: 0.7.2-1
+
+Package: com.sonpham1102.uasharedtools
+Architecture: iphoneos-arm
+Author: UnlimApps Inc. <support@unlimapps.com>
+Depends: mobilesubstrate, firmware (>= 7.0)
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=uasharedtoolsDp
+Description: shared tools for unlimapps tweaks
+dev: i4iphones
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=uasharedtoolsDp
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: uasharedtools
+Filename: debs//tweaks/com.sonpham1102.uasharedtools.deb
+Size: 11964676
+MD5sum: 0510bc8cb34b69c39b1f9e10a70dc1fd
+Section: Tweaks
+Tag: purpose::library, cydia::obsolete, role::developer
+Version: 1.1r-99
+
+Package: com.sonpham1102.fbmpp
+Architecture: iphoneos-arm
+Author: UnlimApps Inc.
+Depends: firmware (>= 5.0), mobilesubstrate, com.sonpham1102.uasharedtools
+Depiction: https://beta.unlimapps.com/depiction/com.unlimapps.fbmpp
+Description: The all in one tweak for Facebook Messenger!
+Homepage: https://beta.unlimapps.com/depiction/com.unlimapps.fbmpp
+Name: Messenger ++
+Filename: debs//tweaks/com.sonpham1102.fbmpp.deb
+Size: 481514
+MD5sum: 87f683fdce87c7aa81585d804facbac0
+Priority: optional
+Section: Tweaks
+Version: 1.0r-63
+
+Package: com.sonpham1102.swipetodeletecontact
+Architecture: iphoneos-arm
+Author: Rene Kahle <packetfahrer@web.de>
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Depiction: 
+Description: Simple Swipe to deleta an Contact
+dev: packetfahrer
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=swipetodeletecontactDp
+Icon: file:///Library/PreferenceBundles/SwipeToDeleteContact.bundle/SwipeToDeleteContactsPref@2x.png
+Installed-Size: 751
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: SwipeToDeleteContact
+Filename: debs//tweaks/com.sonpham1102.swipetodeletecontact.deb
+Size: 66978
+MD5sum: 93db3a7b02c809e7b6ba9d0f9403ebf0
+Section: Tweaks
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension, compatible::ios8, compatible::ios9
+Version: 1.0.2
+
+Package: com.sonpham1102.griddy
+Architecture: iphoneos-arm
+Author: TweakWiz
+Conflicts: com.quantumtweaks.eucnide, com.repo.xarold.com.eucnide, me.chewitt.seng, com.repo.xarold.com.seng, com.sull.seng, com.repo.xarold.com.seng, com.a3tweaks.auxo3ios9, com.repo.xarold.com.auxo3ios9, com.sull.auxo3ios9, com.repo.xarold.com.auxo3ios9, org.thebigboss.alympus, com.repo.xarold.com.alympus, com.sull.alympus, com.repo.xarold.com.alympus
+Depends: mobilesubstrate, preferenceloader, firmware (>= 8.0), com.tweakwiz.wizlib (>= 1.3-6)
+Depiction:
+Description: Thay đổi giao diện khi mở các ứng dụng chạy ngầm.
+Icon: file:///Library/PreferenceBundles/GriddyPrefs.bundle/GriddyImages/Griddy@2x.png
+Name: Griddy
+Filename: debs//tweaks/com.sonpham1102.griddy.deb
+Size: 212970
+MD5sum: 6e23fbc3a73c19bb5e0712ec6bdab230
+Section: Tweaks
+Version: 1.0.5
+
+Package: com.sonpham1102.smalllsclock
+Architecture: iphoneos-arm
+Author: minahoku <minahoku@gmail.com>
+Depends: firmware (>= 7.0), mobilesubstrate
+Depiction:
+Description: Hiện đồng hồ trên thanh Startusbar ở Locks Creen.
+dev: minahoku
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=smalllsclockDp
+Installed-Size: 64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: SmallLSClock
+Filename: debs//tweaks/com.sonpham1102.smalllsclock.deb
+Size: 3502
+MD5sum: c90b00a7594a3b0071a604fef1ffc437
+Priority: optional
+Section: Tweaks
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9
+Version: 0.0.1-1
+
+Package: com.sonpham1102.anis
+Architecture: iphoneos-arm
+Author: CP Digital Darkroom
+Depends: mobilesubstrate, applist, com.a3tweaks.flipswitch, preferenceloader, libactivator, firmware (>= 8.0)
+Depiction:
+Description: centralized hotbar for apps & shortcuts
+Icon: file:///Library/PreferenceBundles/Anis.bundle/images/Anis@2x.png
+Name: Anisette
+Filename: debs//tweaks/com.sonpham1102.anis.deb
+Size: 207458
+MD5sum: 448c0a27b00279a22c04aff3fd0117ea
+Section: Tweaks
+Version: 1.0.3
+
+Package: com.sonpham1102.sptouchios9
+Architecture: iphoneos-arm
+Author: Paolo Smedile <paolosmedile@me.com>
+Conflicts: com.paolosmedile.sptouch
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 9.0), preferenceloader (>= 2.2.2)
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=sptouchios9Dp
+Description: Thêm nút home ảo cho iphone của bạn.
+dev: paolosmedile
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=sptouchios9Dp
+Icon: file:///Library/PreferenceLoader/Preferences/SPTouchIcon@2x.png
+Installed-Size: 192
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: SPTouch for iOS 9
+Filename: debs//tweaks/com.sonpham1102.sptouchios9.deb
+Size: 50604
+MD5sum: 4b4daf4e08be41267600eb9084cee0df
+Section: Tweaks
+Tag: purpose::extension, compatible::ios9
+Version: 3.0
+
+Package: com.sonpham1102.springinvaders
+Architecture: iphoneos-arm
+Author: TweakWiz <support@tweakwiz.com>
+Conflicts: me.alfhaily.gravitation
+Depends: mobilesubstrate, preferenceloader, firmware (>= 8.0), firmware (<< 10.0), com.tweakwiz.wizlib (>= 1.4.4), libactivator
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=springinvadersDp
+Description: Classic arcade game using your home screen
+dev: tweakwiz
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=springinvadersDp
+Icon: file:///Library/PreferenceBundles/SpringInvadersPrefs.bundle/SPRIImages/SpringInvaders@2x.png
+Installed-Size: 384
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: SpringInvaders
+Filename: debs//tweaks/com.sonpham1102.springinvaders.deb
+Size: 146692
+MD5sum: 92f5ea1c2b2f8dc44c37ac1bf1de15fd
+Section: Tweaks
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: cydia::commercial, purpose::extension, compatible::ios8, compatible::ios9
+Version: 1.0-1
+
+Package: com.sonpham1102.springtomize3Fix
+Architecture: iphoneos-arm
+Author: FilippoBiga
+Conflicts: com.filippobiga.springtomize2
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), com.rpetrich.rocketbootstrap
+Description: Springtomize 3 is the ultimate utility for your iDevice! It's the only customization tweak you'll ever need. It features plenty of options to customize even the smallest aspect of your device(s). Every single option includes a brief explanation of its effect, making it very easy to use. The whole application has been localized in 20 different languages, so everyone will be able to use it without an issue. Fix by Sonpham1102 - Cafe TaoViet - 91 Ly Thuong Kiet - HN
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=springtomize3Dp
+Name: Springtomize 3(For IOS 7.0-9.1)
+Name: SpringInvaders
+Filename: debs//tweaks/com.sonpham1102.springtomize3Fix.deb
+Size: 419638
+MD5sum: a7cc3b913bfb45caba9275a60b184567
+Section: Tweaks
+Version: 3.x
