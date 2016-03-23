@@ -515,3 +515,19 @@ Size: 419634
 MD5sum: 4186f43df2b2719d30c5c89bf3f21bc2
 Section: Tweaks
 Version: 3.x
+
+Package: com.sonpham1102.mutecam
+Architecture: iphoneos-arm
+Author: Sonpham1102 (Sonpham1102@gmail.com)
+Conflics: gsmicon
+Depiction: http://www.facebook.com/CafeTaoviet
+Description: Shutter sound silencer IOS 6&7&8.
+Homepage: http://Taoviet.vn/
+Maintainer: Sonpham1102
+Name: MuteCam iOS 6 & 7 & 8
+Filename: debs//tweaks/com.sonpham1102.mutecam.deb
+Size: 1106
+MD5sum: 586586a3404f0acb79fc398edb9a7387
+Pre-Depends: firmware (>= 6.0)
+Section: Tweaks
+Version: 1.2
