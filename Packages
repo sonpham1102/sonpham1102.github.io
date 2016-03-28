@@ -525,7 +525,7 @@ Depends: mobilesubstrate, firmware (>= 7.0)
 Depiction: 
 Description: Sleek redesigned Lockscreen UI
 Name: SubtleLockChuan 7-9
-Filename: debs//tweaks/com.sonpham1102.mutecam.deb
+Filename: debs//tweaks/com.sonpham1102.comiexiledsubtlelockios7-9.deb
 Size: 147430
 MD5sum: 6fedfd02f336b40daab4126f166ba900
 Section: Tweaks
