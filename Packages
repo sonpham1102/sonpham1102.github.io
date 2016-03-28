@@ -524,9 +524,9 @@ Author: Michael Poole
 Depends: mobilesubstrate, firmware (>= 7.0)
 Depiction: 
 Description: Sleek redesigned Lockscreen UI
-Name: SubtleLock iOS 7-9
-Filename: debs//tweaks/com.sonpham1102.comiexiledsubtlelockios7-9
-Size: 147428
-MD5sum: 5f5d46acb7b29e4dec97cbad4b4a95bc
+Name: SubtleLockChuan 7-9
+Filename: debs//tweaks/com.sonpham1102.mutecam.deb
+Size: 147430
+MD5sum: 6fedfd02f336b40daab4126f166ba900
 Section: Tweaks
-Version: 1.0-85
+Version: 1.0-85+debug
