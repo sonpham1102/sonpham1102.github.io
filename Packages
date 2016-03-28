@@ -517,3 +517,16 @@ MD5sum: 586586a3404f0acb79fc398edb9a7387
 Pre-Depends: firmware (>= 6.0)
 Section: Tweaks
 Version: 1.2
+
+Package: com.sonpham1102.comiexiledsubtlelockios7-9
+Architecture: iphoneos-arm
+Author: Michael Poole
+Depends: mobilesubstrate, firmware (>= 7.0)
+Depiction: 
+Description: Sleek redesigned Lockscreen UI
+Name: SubtleLock Chuan
+Filename: debs//tweaks/com.sonpham1102.comiexiledsubtlelockios7-9.deb
+Size: 147430
+MD5sum: 6fedfd02f336b40daab4126f166ba900
+Section: Tweaks
+Version: 1.0-85+debug
