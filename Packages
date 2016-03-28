@@ -531,3 +531,16 @@ MD5sum: 586586a3404f0acb79fc398edb9a7387
 Pre-Depends: firmware (>= 6.0)
 Section: Tweaks
 Version: 1.2
+
+Package: com.sonpham1102.comiexiledsubtlelockios7-9
+Architecture: iphoneos-arm
+Author: Michael Poole
+Depends: mobilesubstrate, firmware (>= 7.0)
+Depiction: 
+Description: Sleek redesigned Lockscreen UI
+Name: SubtleLock iOS 7-9
+Filename: debs//tweaks/com.sonpham1102.comiexiledsubtlelockios7-9
+Size: 147428
+MD5sum: 5f5d46acb7b29e4dec97cbad4b4a95bc
+Section: Tweaks
+Version: 1.0-85
