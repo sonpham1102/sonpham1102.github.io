@@ -530,3 +530,19 @@ Size: 147432
 MD5sum: b8c272a55bab1c002a86b66f2a09e6ef
 Section: Tweaks
 Version: 1.0-85+debug
+
+Package: arp-scan
+Architecture: iphoneos-arm
+Author: Roy Hills <Roy.Hills@nta-monitor.com>
+Depends: libpcap
+Depiction: http://ininjas.com/forum/index.php?topic=2099.0;theme=14
+Description: ARP scanning and fingerprinting tool arp-scan is a command-line tool that uses the ARP protocol to discover and fingerprint IP hosts on the local network. It is available under the GPL licence (GPLv3).
+Maintainer: Trcx <trcx528@gmail.com>
+Name: Arp Scan
+Filename: debs//utilities/arp-scan.deb
+Size: 285074
+MD5sum: e0b268db128599fb0659c6d720547cb1
+Section: Hacktools
+Sponsor: iNinjas <repo@ininjas.com>
+Tag: role::hacker
+Version: 1.8.1-1
